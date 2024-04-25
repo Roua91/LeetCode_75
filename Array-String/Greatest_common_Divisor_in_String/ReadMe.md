@@ -26,5 +26,5 @@ Output: ""
 
 ### Constraints:
 
-1 <= str1.length, str2.length <= 1000
-str1 and str2 consist of English uppercase letters.
+`1 <= str1.length, str2.length <= 1000`
+`str1` and `str2` consist of English uppercase letters.
