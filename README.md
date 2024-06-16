@@ -23,7 +23,7 @@
 
 ---
 
-Dynamic Programming
+## Dynamic Programming
 
 - Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
 - Coin Change - https://leetcode.com/problems/coin-change/
